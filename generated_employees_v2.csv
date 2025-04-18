@@ -1,0 +1,22 @@
+nationalID,firstName,middleName,lastName,birthDate,department,jobTitle,manager,startDate,terminationDate,personalMail,phoneNumber,country
+1000,Margarethe,,Hertrampf,28/12/2005,Executive,CEO,,20/01/2022,,margarethe.hertrampf@example.com,+497341312395,DE
+1001,Paulette,,Weiss,21/05/1981,Engineering,Engineering Lead,Margarethe Hertrampf,11/08/2023,,paulette.weiss@example.com,+338938964047,FR
+1002,Marianne,,Vallée,11/08/1979,Marketing,Marketing Lead,Margarethe Hertrampf,02/11/2022,,marianne.vallee@example.com,+334679998692,FR
+1003,Jemma,,Harrison,15/10/1981,Sales,Account Manager,Margarethe Hertrampf,22/04/2022,,jemma.harrison@example.com,+443152498678,UK
+1004,Baydu,,Tarhan,28/02/1990,HR,HR Manager,Margarethe Hertrampf,27/11/2022,,baydu.tarhan@example.com,+908763452838,TR
+1005,Denis,,Moreno,18/01/2002,Finance,Finance Manager,Margarethe Hertrampf,26/08/2024,,denis.moreno@example.com,+336393659075,FR
+1006,Janaki,,Kunda,19/11/1975,Sales,Sales Executive,Jemma Harrison,12/02/2022,,janaki.kunda@example.com,+917286021431,IN
+1007,Rachit,,Bahri,24/12/1983,Marketing,Content Specialist,Marianne Vallée,31/05/2022,,rachit.bahri@example.com,+918019243720,IN
+1008,Melanie,,Powell,16/03/1992,Sales,Sales Executive,Jemma Harrison,27/11/2024,,melanie.powell@example.com,+443647528113,UK
+1009,Johnathan,,Henderson,16/10/1975,HR,HR Coordinator,Baydu Tarhan,30/07/2022,01/01/2026,johnathan.henderson@example.com,+18587974794,US
+1010,Jason,,Mills,12/04/1984,HR,Recruiter,Baydu Tarhan,13/01/2025,,jason.mills@example.com,+11655970277,US
+1011,Telse,,Köhler,23/03/1989,Sales,Sales Executive,Jemma Harrison,16/07/2023,,telse.kohler@example.com,+490203690890,DE
+1012,Josephine,,Paffrath,05/08/2000,Finance,Accountant,Denis Moreno,01/09/2023,,josephine.paffrath@example.com,+497008982529,DE
+1013,Laura,,Birch,14/10/1979,Sales,Sales Executive,Jemma Harrison,18/08/2023,,laura.birch@example.com,+445993794527,UK
+1014,Malgorzata,,Fritsch,11/06/1992,Sales,Sales Executive,Jemma Harrison,14/02/2024,,malgorzata.fritsch@example.com,+496196136645,DE
+1015,Ljudmila,,Sölzer,28/11/1997,Marketing,SEO Specialist,Marianne Vallée,19/02/2022,01/01/2026,ljudmila.solzer@example.com,+494902533176,DE
+1016,Lauren,,Gibbs,22/04/1987,Finance,Accountant,Denis Moreno,14/07/2022,,lauren.gibbs@example.com,+448920928647,UK
+1017,Hardik,,Lanka,04/02/2003,Engineering,DevOps Engineer,Paulette Weiss,02/04/2025,,hardik.lanka@example.com,+910342178964,IN
+1018,Roswita,,Kraus,11/04/2004,Finance,Accountant,Denis Moreno,24/03/2022,,roswita.kraus@example.com,+494088176826,DE
+1019,Unni,,Dhawan,10/03/1975,HR,HR Coordinator,Baydu Tarhan,29/03/2024,,unni.dhawan@example.com,+919411336149,IN
+1020,George,,Brown,11/05/1985,Engineering,DevOps Engineer,Paulette Weiss,12/11/2023,,george.brown@example.com,+17633607846,US

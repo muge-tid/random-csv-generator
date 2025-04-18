@@ -1,0 +1,51 @@
+nationalID,firstName,middleName,lastName,birthDate,department,jobTitle,manager,startDate,terminationDate,personalMail,phoneNumber,country
+1000,Anmol,,Chandra,30/12/1989,Executive,CEO,,23/10/2020,,anmol.chandra@example.com,+916032129966,IN
+1001,Grace,,Vincent,03/06/2001,Engineering,Engineering Lead,Anmol Chandra,24/07/2023,,grace.vincent@example.com,+444766204214,UK
+1002,Nandini,,Shukla,17/10/1990,Marketing,Marketing Lead,Anmol Chandra,19/01/2022,,nandini.shukla@example.com,+918365717940,IN
+1003,Joséphine,,Humbert,20/05/2005,Sales,Account Manager,Anmol Chandra,07/11/2021,,josephine.humbert@example.com,+335994094062,FR
+1004,Sarah,,Jones,05/11/1999,HR,HR Manager,Anmol Chandra,22/04/2023,01/01/2026,sarah.jones@example.com,+449950793873,UK
+1005,Veis,,Karadeniz,14/12/2004,Finance,Finance Manager,Anmol Chandra,26/03/2024,01/01/2026,veis.karadeniz@example.com,+909018605867,TR
+1006,Darlene,,Newman,26/11/2005,HR,Recruiter,Sarah Jones,11/11/2023,,darlene.newman@example.com,+13780340616,US
+1007,Margitta,,Gute,10/12/1984,Finance,Accountant,Veis Karadeniz,01/08/2024,,margitta.gute@example.com,+498361273758,DE
+1008,Paul,,Wheeler,14/03/1999,Engineering,QA Engineer,Grace Vincent,30/06/2024,,paul.wheeler@example.com,+443812876928,UK
+1009,Isolde,,Butte,07/06/2001,HR,HR Coordinator,Sarah Jones,24/04/2022,,isolde.butte@example.com,+497948029344,DE
+1010,Raymond,,Bruneau,14/06/1993,Finance,Financial Analyst,Veis Karadeniz,13/02/2024,,raymond.bruneau@example.com,+336277358051,FR
+1011,Ekani,,Manne,05/10/1996,Sales,Sales Executive,Joséphine Humbert,16/08/2021,,ekani.manne@example.com,+912004714445,IN
+1012,Christian,,Baxter,22/09/1987,Sales,Sales Executive,Joséphine Humbert,01/07/2022,,christian.baxter@example.com,+440170860103,UK
+1013,Maurice,,Singh,21/06/1985,Engineering,QA Engineer,Grace Vincent,05/04/2022,,maurice.singh@example.com,+449061727552,UK
+1014,Amber,,Moore,15/04/2002,Marketing,SEO Specialist,Nandini Shukla,24/09/2023,01/01/2026,amber.moore@example.com,+18786713990,US
+1015,Noël,,Bodin,04/05/1982,Sales,Sales Executive,Joséphine Humbert,21/03/2021,,noel.bodin@example.com,+331489931220,FR
+1016,Tatiana,,Wilms,12/03/1984,Marketing,Content Specialist,Nandini Shukla,02/06/2023,,tatiana.wilms@example.com,+497348530468,DE
+1017,Lorraine,,Renard,14/05/1996,HR,Recruiter,Sarah Jones,15/05/2021,,lorraine.renard@example.com,+336868130520,FR
+1018,Gauri,,Dar,01/06/1999,Marketing,SEO Specialist,Nandini Shukla,10/10/2023,,gauri.dar@example.com,+914084081745,IN
+1019,Damyanti,,Tata,25/11/1976,HR,HR Coordinator,Sarah Jones,28/11/2023,,damyanti.tata@example.com,+911799188917,IN
+1020,Isha,,Bhatnagar,20/08/1980,Sales,Sales Executive,Joséphine Humbert,24/02/2025,,isha.bhatnagar@example.com,+917808687651,IN
+1021,Sonnur,,İnönü,07/06/1994,Sales,Sales Executive,Joséphine Humbert,13/12/2023,,sonnur.inonu@example.com,+900459501207,TR
+1022,Tamara,,Evans,13/12/2001,HR,Recruiter,Sarah Jones,30/03/2024,,tamara.evans@example.com,+12020021732,US
+1023,Marcus,,Potter,24/08/1976,HR,Recruiter,Sarah Jones,15/02/2022,,marcus.potter@example.com,+448750201678,UK
+1024,Ruth,,Williams,29/12/1989,Sales,Sales Executive,Joséphine Humbert,17/09/2021,,ruth.williams@example.com,+12817549654,US
+1025,Grzegorz,,Börner,29/07/1998,Sales,Sales Executive,Joséphine Humbert,21/09/2023,,grzegorz.borner@example.com,+493861428186,DE
+1026,Hortense,,Pruvost,13/03/1993,Sales,Sales Executive,Joséphine Humbert,13/12/2022,,hortense.pruvost@example.com,+336463707679,FR
+1027,Piran,,Zengin,02/06/1997,Sales,Sales Executive,Joséphine Humbert,18/07/2023,,piran.zengin@example.com,+901608671142,TR
+1028,Sahir,,Sezgin,04/04/2002,HR,HR Coordinator,Sarah Jones,02/11/2024,,sahir.sezgin@example.com,+903771103180,TR
+1029,Harshil,,Shenoy,24/08/1980,HR,HR Coordinator,Sarah Jones,20/08/2024,,harshil.shenoy@example.com,+910265526774,IN
+1030,Waida,,Deol,21/10/2001,Engineering,DevOps Engineer,Grace Vincent,19/06/2022,,waida.deol@example.com,+913142518932,IN
+1031,Hilary,,Butler,11/02/1978,Marketing,SEO Specialist,Nandini Shukla,25/04/2024,01/01/2026,hilary.butler@example.com,+446482420669,UK
+1032,Rajata,,Panchal,25/05/1989,HR,HR Coordinator,Sarah Jones,10/02/2022,,rajata.panchal@example.com,+916955569857,IN
+1033,Abbie,,Scott,01/11/1998,Sales,Sales Executive,Joséphine Humbert,27/07/2023,,abbie.scott@example.com,+445959747602,UK
+1034,Norma,,Freudenberger,16/06/1977,Engineering,DevOps Engineer,Grace Vincent,03/04/2024,,norma.freudenberger@example.com,+499498918028,DE
+1035,Roland,,Gérard,02/04/2005,Marketing,SEO Specialist,Nandini Shukla,26/03/2024,,roland.gerard@example.com,+332071229233,FR
+1036,Dakshesh,,Prakash,05/04/1981,HR,HR Coordinator,Sarah Jones,22/06/2021,,dakshesh.prakash@example.com,+914519022564,IN
+1037,Marc,,Murphy,18/05/1989,Marketing,Content Specialist,Nandini Shukla,16/04/2022,,marc.murphy@example.com,+441365083202,UK
+1038,Françoise,,Garnier,12/02/2004,Engineering,QA Engineer,Grace Vincent,06/03/2024,01/01/2026,francoise.garnier@example.com,+339793485971,FR
+1039,Maureen,,Ward,14/07/1977,Engineering,QA Engineer,Grace Vincent,20/08/2024,,maureen.ward@example.com,+440859394726,UK
+1040,Céline,,Ferrand,12/07/1981,HR,Recruiter,Sarah Jones,31/03/2024,,celine.ferrand@example.com,+332889462563,FR
+1041,Frédéric,,Renaud,05/05/1978,Sales,Sales Executive,Joséphine Humbert,19/09/2024,,frederic.renaud@example.com,+331999572000,FR
+1042,Evcimen,,Yorulmaz,29/12/2002,Marketing,Content Specialist,Nandini Shukla,09/03/2024,,evcimen.yorulmaz@example.com,+900702982223,TR
+1043,Kotuz,,Sezgin,12/03/1982,Engineering,QA Engineer,Grace Vincent,01/11/2022,01/01/2026,kotuz.sezgin@example.com,+900312867895,TR
+1044,Vanessa,,Zavala,15/05/1982,HR,HR Coordinator,Sarah Jones,01/09/2021,01/01/2026,vanessa.zavala@example.com,+14608099818,US
+1045,Chavvi,,Lal,25/09/1994,Finance,Financial Analyst,Veis Karadeniz,18/09/2022,,chavvi.lal@example.com,+916024574228,IN
+1046,Joséphine,,Simon,15/08/1987,Finance,Accountant,Veis Karadeniz,12/05/2023,,josephine.simon@example.com,+338961314582,FR
+1047,Danielle,,Hammond,03/11/2005,Marketing,SEO Specialist,Nandini Shukla,06/01/2025,01/01/2026,danielle.hammond@example.com,+444294666686,UK
+1048,Geneviève,,Legros,08/05/1984,Finance,Financial Analyst,Veis Karadeniz,06/03/2025,,genevieve.legros@example.com,+331096177182,FR
+1049,Okyalaz,,Tarhan,23/04/1986,Engineering,QA Engineer,Grace Vincent,20/07/2024,,okyalaz.tarhan@example.com,+905997559002,TR
